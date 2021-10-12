@@ -1,0 +1,9 @@
+.actor-name {
+    font-weight: bold;
+    font-size: 12px;
+    margin: 0.8em 0 0 0;
+}
+
+.role-name {
+    margin: 0.2em 0;
+}

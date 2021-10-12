@@ -14,3 +14,13 @@ html {
   height: 1em;
   margin-right: 0.3em;
 }
+
+body {
+  background-color: #dcdbdb;
+}
+
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
